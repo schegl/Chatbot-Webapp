@@ -1,0 +1,54 @@
+{"qa": [
+        {"tag": "begrüßung",
+         "questions": ["Hallo", "Ist jemand da?", "Hi", "Guten Tag"],
+         "answers": ["Hey, wie kann ich dir weiterhelfen?"],
+         "context_set": ""
+        },
+        {"tag": "wiegehts",
+         "questions": ["Wie gehts?", "Was geht?"],
+         "answers": ["Mir geht es super und dir?"],
+         "context_set": ""
+        },
+        {"tag": "wieoftsport",
+         "questions": ["Wie viel Sport?", "Wie oft sollte ich Sport machen?"],
+         "answers": ["Du solltest 150 Minuten in der Woche Sport machen. Natürlich solltest du nicht versuchen alles an einem Tag zu machen, sondern die Zeit auf die Woche verteilen."],
+         "context_set": ""
+        },
+        {"tag": "sixpack",
+         "questions": ["Wie kann ich ein Sixpack aufbauen?", "Wie bekommt man Bauchmuskeln?"],
+         "answers": ["Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme und proteinreiche Diät."],
+         "context_set": ""
+        },
+        {"tag": "anfangen",
+         "questions": ["Worauf ist zu achten, wenn man mit dem Krafttraining anfängt?", "Ich möchte ins Fitnessstudio, worauf muss ich achten?", "Was ist zu beachten, wenn man mit Fitness anfangen will?"],
+         "answers": ["Wenn du mit dem Fitnesstraining beginnen möchtest, ist es sehr wichtig, dass du auf eine saubere Ausführung der Übungen achtest, um Verletzungen vorzubeugen. Einen für dich passenden Trainingsplan findest du unter ...de"],
+         "context_set": ""
+        },
+        {"tag": "gesundeernaehrung",
+         "questions": ["Was ist unter gesunder Ernährung zu verstehen?", "Wie muss ich mich ernähren, um gesund zu bleiben?", "Gesunde Nahrung?"],
+         "answers": ["Du solltest vorallem viel Obst und Gemüse essen."],
+         "context_set": ""
+        },
+        {"tag": "erfolge",
+         "questions": ["Wie lange muss ich trainieren, um Erfolge zu sehen?", "Wann sieht man die ersten Ergebnisse?"],
+         "answers": ["Das ist individuell und kann nicht so leicht beantwortet werden. Jeder baut unterschiedlich schnell Muskeln auf."],
+         "context_set": ""
+        },
+        {"tag": "motivation",
+         "questions": ["Wie kann ich mich motivieren zum Training zu gehen?", "Was soll ich tun, wenn ich mal keine Lust habe zum Training zu gehen?", "Wie kann ich mich motivieren Sport zu machen?"],
+         "answers": ["Es ist wichtig, dass du deine Komfortzone verlässt und dich zum Training zwingst auch, wenn du mal nicht so viel Lust hast."],
+         "context_set": ""
+        },
+        {"tag": "abnehmen",
+         "questions": ["Was kann ich tun, um abzunehmen?", "Wie kann ich Gewicht verlieren?", "Wie werde ich schlank?"],
+         "answers": ["Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden."],
+         "context_set": ""
+        },
+        {"tag": "zunehmen",
+         "questions": ["Wie baue ich Muskeln auf?"],
+         "answers": ["Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen."],
+         "context_set": ""
+        }
+        
+   ]
+}

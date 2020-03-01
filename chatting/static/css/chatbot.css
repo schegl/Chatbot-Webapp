@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: #fff;
+}
+
+.section {
+    padding: 100px;
+}
+
+.avatar_resized {
+    width: 60px;
+    height: auto;
+    margin-bottom: 1px;
+}
+
+.dot {
+    height: 7px;
+    width: 7px;
+    background-color: #2adb2c;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.chat_box {
+    max-width: 715px;
+    max-height: 575px;
+    background: #fff;
+    border: 2px solid #DADADA;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px silver;
+    margin: 0 auto;
+}
+
+.chat_header {
+    display: flex;
+    max-height: 68px;
+    border-radius: 17px 17px 0px 0px;
+    padding: 0px 20px;
+    background: #f7f7f7;
+    align-items: center;
+}
+
+.chat_main {
+    display: flex;
+    height: 435px;
+    padding: 0px 20px;
+    background: #fff;
+    flex-direction: column-reverse;
+    overflow-y: auto;
+    border-top: 1px solid #DADADA;
+    border-bottom: 1px solid #DADADA;
+}
+
+.chat_footer {
+    display: flex;
+    height: 68px;
+    border-radius: 0px 0px 17px 17px;
+    padding: 0px 20px;
+    background: #f7f7f7;
+    align-items: center;
+}
+
+.text_input {
+    outline: none;
+    padding: 5px 7px;
+    max-width: 675px;
+    width: 100%;
+    border: 2px solid #DADADA;
+    border-radius: 20px;
+}
+
+.user_message {
+    word-break: break-word;
+    background: #fff;
+    border: 1px solid #DADADA;
+    border-radius: 30px;
+    padding: 10px 15px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    max-width: 80%;
+}
+
+.bot_message {
+    word-break: break-word;
+    background: #f7f7f7;
+    border: 1px solid #DADADA;
+    border-radius: 30px;
+    padding: 10px 15px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    max-width: 80%;
+}
+
+.message_time {
+  color: #8f8f8f;
+  font-size: 0.9rem;
+}
+
+input,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}

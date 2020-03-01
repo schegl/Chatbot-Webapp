@@ -1,0 +1,62 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Chatbot</title>
+  <link href="{% static 'css/chatbot.css' %}" rel="stylesheet">
+</head>
+
+<body>
+  <section class="section" id="bot">
+    <div class="container">
+      <form id="post-form">
+        {% csrf_token %}
+        <div class="chat_box">
+          <div class="chat_header">
+            <img src="{% static 'img/avataaars.svg' %}" class="avatar_resized">
+            <span class="dot"></span>
+            <span>Chatbot</span>
+          </div>
+          <div class="chat_main" id="chat_main">
+          </div>
+          <div class="chat_footer">
+            <input class= "text_input" id="message" type="text" required="required" autocomplete="off" placeholder="Nachricht" />
+          </div>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- jQuery lib -->
+  <script src="{% static 'jquery/jquery.min.js' %}"></script>
+
+  <!-- Animate Conversation -->
+  <script>
+    $(document).on('submit', '#post-form', function(e) {
+      e.preventDefault();
+
+      $.ajax({
+        type:'POST',
+        url:'chat/',
+        data:{
+          nachricht: $("#message").val(),
+          csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val()
+        },
+        success:function(data){
+          $('#chat_main').prepend('<div class="user_message">'+$("#message").val()+'<div class="message_time">'+new Date().toLocaleTimeString().replace(/([\d]+:[\d]{2})(:[\d]{2})(.*)/, "$1$3")+'</div></div>');
+          $("#message").val('');
+          $("#chat_main").animate({ scrollTop: $('#chat_main').prop("scrollHeight")}, 500);
+          setTimeout(function(){
+            $('#chat_main').prepend('<div class="bot_message">'+data+'<div class="message_time">'+new Date().toLocaleTimeString().replace(/([\d]+:[\d]{2})(:[\d]{2})(.*)/, "$1$3")+'</div></div>');
+          },500);
+        }
+      });
+
+    });
+  </script>
+
+</body>
+</html>

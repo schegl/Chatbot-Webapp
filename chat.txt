@@ -1,0 +1,208 @@
+(2020-02-25 20:02:11.555705+00:00) Sie: Test
+(2020-02-25 20:02:11.555705+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:40:38.693266+00:00) Sie: jtjt
+(2020-02-28 22:40:38.693266+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:41:08.450337+00:00) Sie: uzrjzr
+(2020-02-28 22:41:08.450337+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:42:05.924017+00:00) Sie: htrrh
+(2020-02-28 22:42:05.924017+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:42:59.227770+00:00) Sie: Hi
+(2020-02-28 22:42:59.227770+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:44:07.819711+00:00) Sie: hi
+(2020-02-28 22:44:07.819711+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:44:19.971632+00:00) Sie: jztj
+(2020-02-28 22:44:19.971632+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:44:23.808963+00:00) Sie: Hallo
+(2020-02-28 22:44:23.808963+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:44:39.321651+00:00) Sie: Hallo
+(2020-02-28 22:44:39.321651+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:44:52.449211+00:00) Sie: Wie kann ich Bauchmuskeln aufbauen?
+(2020-02-28 22:44:52.449211+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme Diät.
+(2020-02-28 22:45:26.840984+00:00) Sie: Hallo
+(2020-02-28 22:45:26.840984+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:45:35.041381+00:00) Sie: Wie kann man Bauchmuskeln aufbauen?
+(2020-02-28 22:45:35.041381+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme Diät.
+(2020-02-28 22:45:53.368676+00:00) Sie: Hallo
+(2020-02-28 22:45:53.369660+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:46:02.400810+00:00) Sie: Wie kann man Bauchmuskeln aufbauen?
+(2020-02-28 22:46:02.400810+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme Diät.
+(2020-02-28 22:56:43.458852+00:00) Sie: test
+(2020-02-28 22:56:43.458852+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:57:26.816895+00:00) Sie: test
+(2020-02-28 22:57:26.816895+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:57:42.679055+00:00) Sie: hterh
+(2020-02-28 22:57:42.679055+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:57:54.064646+00:00) Sie: jztj
+(2020-02-28 22:57:54.064646+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:58:02.895649+00:00) Sie: hztht
+(2020-02-28 22:58:02.895649+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:58:15.409755+00:00) Sie: zjtzj
+(2020-02-28 22:58:15.409755+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:58:25.199920+00:00) Sie: jtrjtr
+(2020-02-28 22:58:25.199920+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:58:49.512727+00:00) Sie: zhrthrt
+(2020-02-28 22:58:49.512727+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:59:11.050267+00:00) Sie: hezthet
+(2020-02-28 22:59:11.050267+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:59:19.679601+00:00) Sie: thrwh
+(2020-02-28 22:59:19.680576+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:59:32.560012+00:00) Sie: trwhtrh
+(2020-02-28 22:59:32.560012+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:59:35.703396+00:00) Sie: Hal
+(2020-02-28 22:59:35.703396+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 22:59:57.159803+00:00) Sie: wie baue ich bauchmuskeln auf?
+(2020-02-28 22:59:57.159803+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme Diät.
+(2020-02-28 23:00:38.160116+00:00) Sie: zrtzt
+(2020-02-28 23:00:38.160116+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:00:57.335911+00:00) Sie: jztr
+(2020-02-28 23:00:57.335911+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:03:47.785906+00:00) Sie: uujrz
+(2020-02-28 23:03:47.785906+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:04:06.280718+00:00) Sie: zulkui
+(2020-02-28 23:04:06.280718+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:04:42.823097+00:00) Sie: wie ernährt man sich gesund?
+(2020-02-28 23:04:42.823097+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme Diät.
+(2020-02-28 23:04:55.126869+00:00) Sie: wie oft sollte ich sport machen?
+(2020-02-28 23:04:55.126869+00:00) Chatbot: Du solltest 150 Minuten in der Woche Sport machen. Natürlich solltest du nicht versuchen alles an einem Tag zu machen, sondern die Zeit auf die Woche verteilen.
+(2020-02-28 23:05:50.983961+00:00) Sie: zjjjjjjjjjjjjjjjj
+(2020-02-28 23:05:50.983961+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:05:56.463252+00:00) Sie: teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet
+(2020-02-28 23:05:56.463252+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:06:02.182369+00:00) Sie: aAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+(2020-02-28 23:06:02.182369+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:06:15.808079+00:00) Sie: jzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+(2020-02-28 23:06:15.808079+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:06:29.247186+00:00) Sie: jurzjzzrj
+(2020-02-28 23:06:29.247186+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:06:48.677839+00:00) Sie: Hallo
+(2020-02-28 23:06:48.677839+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:06:54.941901+00:00) Sie: hallo wie geht es ihnen?
+(2020-02-28 23:06:54.941901+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:07:26.782634+00:00) Sie: hztht
+(2020-02-28 23:07:26.782634+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:08:02.816200+00:00) Sie: jztj
+(2020-02-28 23:08:02.816200+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:08:11.366995+00:00) Sie: ztjrt
+(2020-02-28 23:08:11.366995+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:08:23.749978+00:00) Sie: Hallo und so
+(2020-02-28 23:08:23.750945+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:08:56.103891+00:00) Sie: jztrj
+(2020-02-28 23:08:56.103891+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:08:58.982905+00:00) Sie: Halooooooooo
+(2020-02-28 23:08:58.982905+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:09:03.621566+00:00) Sie: HALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+(2020-02-28 23:09:03.621566+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:09:20.503526+00:00) Sie: Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo Hallo 
+(2020-02-28 23:09:20.503526+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:09:38.311021+00:00) Sie: Hallo
+(2020-02-28 23:09:38.311021+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:10:40.742828+00:00) Sie: test
+(2020-02-28 23:10:40.742828+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:14:02.527371+00:00) Sie: hzeth
+(2020-02-28 23:14:02.527371+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:14:25.119599+00:00) Sie: jzrtjtr
+(2020-02-28 23:14:25.119599+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:14:55.431526+00:00) Sie: 6z35
+(2020-02-28 23:14:55.431526+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:32:49.296858+00:00) Sie: hui
+(2020-02-28 23:32:49.296858+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:33:01.416439+00:00) Sie: guib
+(2020-02-28 23:33:01.416439+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:33:04.204705+00:00) Sie: jnk
+(2020-02-28 23:33:04.204705+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:33:06.188056+00:00) Sie: lkml
+(2020-02-28 23:33:06.188056+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:33:11.190085+00:00) Sie: jnknl
+(2020-02-28 23:33:11.190085+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:33:13.725000+00:00) Sie: lp
+(2020-02-28 23:33:13.725000+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:35:26.559666+00:00) Sie: frefwe
+(2020-02-28 23:35:26.559666+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:36:02.536091+00:00) Sie: rfe
+(2020-02-28 23:36:02.536091+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:36:04.316982+00:00) Sie: re
+(2020-02-28 23:36:04.316982+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:36:05.467699+00:00) Sie: fre
+(2020-02-28 23:36:05.467699+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:36:05.653203+00:00) Sie: fref
+(2020-02-28 23:36:05.653203+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:36:25.772703+00:00) Sie: h4hz4
+(2020-02-28 23:36:25.772703+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:36:39.573699+00:00) Sie: zhtzh
+(2020-02-28 23:36:39.573699+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:37:33.464514+00:00) Sie: feqfeq
+(2020-02-28 23:37:33.464514+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:37:42.549108+00:00) Sie: hreher
+(2020-02-28 23:37:42.549108+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:38:16.973604+00:00) Sie: hzh6
+(2020-02-28 23:38:16.973604+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:38:20.083965+00:00) Sie: rrrrrrrrrrrrrrr
+(2020-02-28 23:38:20.083965+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:38:45.189422+00:00) Sie: 7j64j7
+(2020-02-28 23:38:45.189422+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:38:49.237555+00:00) Sie: ALS OB
+(2020-02-28 23:38:49.237555+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:39:29.898480+00:00) Sie: rge
+(2020-02-28 23:39:29.898480+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:39:37.533952+00:00) Sie: Hallllll
+(2020-02-28 23:39:37.533952+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:39:49.184605+00:00) Sie: AAAAAAAAAAA
+(2020-02-28 23:39:49.184605+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:40:17.413657+00:00) Sie: test
+(2020-02-28 23:40:17.413657+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:42:25.198997+00:00) Sie: Hallo
+(2020-02-28 23:42:25.198997+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:42:29.244208+00:00) Sie: HAAAAAA
+(2020-02-28 23:42:29.245206+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:45:54.494344+00:00) Sie: jrzjzr
+(2020-02-28 23:45:54.494344+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:46:02.940957+00:00) Sie: rzj
+(2020-02-28 23:46:02.940957+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-28 23:46:35.036230+00:00) Sie: jtrjrjuzt
+(2020-02-28 23:46:35.036230+00:00) Chatbot: Guten Tag, ich bin dein KI Health Coach Alex. Wie kann ich ihnen weiterhelfen?
+(2020-02-29 19:08:23.714245+00:00) Sie: Hi
+(2020-02-29 19:08:23.714245+00:00) Chatbot: (2020-02-29 19:08:44.067589+00:00) Sie: Hi
+(2020-02-29 19:08:44.068593+00:00) Chatbot: (2020-02-29 19:09:24.578391+00:00) Sie: Hi
+(2020-02-29 19:09:24.578391+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-02-29 19:09:37.823059+00:00) Sie: Ich möchte abnehmen aber weiß nicht wie
+(2020-02-29 19:09:37.823059+00:00) Chatbot: Mir geht es super und dir?
+(2020-02-29 19:09:45.582773+00:00) Sie: ich möchte abnehmen
+(2020-02-29 19:09:45.582773+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-02-29 19:09:52.206317+00:00) Sie: Wie kann ich abnehmen
+(2020-02-29 19:09:52.206317+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
+(2020-02-29 19:10:09.335627+00:00) Sie: Wie kann ich einen Sixpack aufbauen?
+(2020-02-29 19:10:09.335627+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme und proteinreiche Diät.
+(2020-02-29 19:10:23.079760+00:00) Sie: Wie Kann ich Muskeln aufbauen?
+(2020-02-29 19:10:23.079760+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme und proteinreiche Diät.
+(2020-02-29 19:10:32.861999+00:00) Sie: WIe bekomme ich muskeln?
+(2020-02-29 19:10:32.861999+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
+(2020-02-29 19:11:03.694134+00:00) Sie: Wie baut man muskleln auf?
+(2020-02-29 19:11:03.694134+00:00) Chatbot: Um Bauchmuskeln zu bekommen, solltest du vorallem Sit-Ups machen. Noch wichtiger ist es, dass du dein Körperfettanteil unter 10% bekommst. Das gelingt dir hauptsächlich durch eine kalorienarme und proteinreiche Diät.
+(2020-02-29 19:11:15.014922+00:00) Sie: muskeln
+(2020-02-29 19:11:15.014922+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-02-29 19:11:23.710283+00:00) Sie: Wie kann ich mich gesund ernähren?
+(2020-02-29 19:11:23.710283+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
+(2020-02-29 19:11:52.582455+00:00) Sie: Wie viel sport in der woche ist gesund?
+(2020-02-29 19:11:52.582455+00:00) Chatbot: Du solltest 150 Minuten in der Woche Sport machen. Natürlich solltest du nicht versuchen alles an einem Tag zu machen, sondern die Zeit auf die Woche verteilen.
+(2020-02-29 19:11:59.453999+00:00) Sie: was ist gesunde ernährung?
+(2020-02-29 19:11:59.453999+00:00) Chatbot: Du solltest vorallem viel Obst und Gemüse essen.
+(2020-02-29 19:12:06.983130+00:00) Sie: gesund nahrung
+(2020-02-29 19:12:06.983130+00:00) Chatbot: Du solltest vorallem viel Obst und Gemüse essen.
+(2020-02-29 19:12:12.566003+00:00) Sie: nahrung
+(2020-02-29 19:12:12.566003+00:00) Chatbot: Du solltest vorallem viel Obst und Gemüse essen.
+(2020-02-29 19:13:03.558155+00:00) Sie: Wie motiviere ich mich wenn ich mal nicht so viel lust habe?
+(2020-02-29 19:13:03.558155+00:00) Chatbot: Es ist wichtig, dass du deine Komfortzone verlässt und dich zum Training zwingst auch, wenn du mal nicht so viel Lust hast.
+(2020-02-29 19:13:22.710001+00:00) Sie: Wie motiviere ich mich wenn ich mal nicht so viel lust habe? ich bin manchmal echt fault, oh man
+(2020-02-29 19:13:22.710001+00:00) Chatbot: Es ist wichtig, dass du deine Komfortzone verlässt und dich zum Training zwingst auch, wenn du mal nicht so viel Lust hast.
+(2020-02-29 19:13:37.583003+00:00) Sie: ich bin sehr faul, wie motiviere ich mich trotzdem?
+(2020-02-29 19:13:37.583003+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
+(2020-02-29 19:15:14.119548+00:00) Sie: ich will mit sport anfangen
+(2020-02-29 19:15:14.119548+00:00) Chatbot: Wenn du mit dem Fitnesstraining beginnen möchtest, ist es sehr wichtig, dass du auf eine saubere Ausführung der Übungen achtest, um Verletzungen vorzubeugen. Einen für dich passenden Trainingsplan findest du unter ...de
+(2020-02-29 19:15:37.648522+00:00) Sie: wie fängt am besten mit sport an
+(2020-02-29 19:15:37.648522+00:00) Chatbot: Du solltest 150 Minuten in der Woche Sport machen. Natürlich solltest du nicht versuchen alles an einem Tag zu machen, sondern die Zeit auf die Woche verteilen.
+(2020-02-29 19:15:58.175374+00:00) Sie: wie fängt man am besten mit krafttraining an
+(2020-02-29 19:15:58.175374+00:00) Chatbot: Wenn du mit dem Fitnesstraining beginnen möchtest, ist es sehr wichtig, dass du auf eine saubere Ausführung der Übungen achtest, um Verletzungen vorzubeugen. Einen für dich passenden Trainingsplan findest du unter ...de
+(2020-02-29 19:16:27.582308+00:00) Sie: Wie nehme ich zu?
+(2020-02-29 19:16:27.582308+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
+(2020-02-29 19:16:37.501840+00:00) Sie: WIe nehme ich ab?
+(2020-02-29 19:16:37.501840+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
