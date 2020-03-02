@@ -1,13 +1,13 @@
-# Django Webapp mit eingebautem Deep Learning Chatbot
-Beschreibung des Projekts
+# Deep Learning Chatbot
 
-## Demo
 
 ## Anleitung zum Starten
 
-## Beispielspätze
+python manage.py runserver
 
 ## Requirements
+
+see requirements.py
 
 ## References
 

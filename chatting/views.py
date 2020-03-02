@@ -48,7 +48,7 @@ for i, question in enumerate(questions):
     # remove non-alphabetic/non-numeric
     real_tokens = [word for word in stripped if word.isalpha() or word.isnumeric()]
     # stemming
-    sequence = [snowball.stem(t) for t in real_tokens]
+    sequence = [snowball.stem(token) for token in real_tokens]
 
     training_x.append(sequence)
 
@@ -90,7 +90,7 @@ def response(request):
     return HttpResponse(msg)
 
 def answer(user_message):
-    preprocessed_test = []
+    preprocessed = []
 
     # Preprocessing
     # tokenize
@@ -101,12 +101,12 @@ def answer(user_message):
     # remove non-alphabetic/non-numeric
     real_tokens = [word for word in stripped if word.isalpha() or word.isnumeric()]
     # stemming
-    sequence = [snowball.stem(t) for t in real_tokens]
-    preprocessed_test.append(sequence)
+    sequence = [snowball.stem(token) for token in real_tokens]
+    preprocessed.append(sequence)
 
-    print(preprocessed_test)
-    test_samples_tokens = tokenizer.texts_to_sequences(preprocessed_test)
-    padded_samples = pad_sequences(test_samples_tokens, maxlen=300)
+    print(preprocessed)
+    question = tokenizer.texts_to_sequences(preprocessed)
+    padded_samples = pad_sequences(question, maxlen=300)
 
     global sess
     global graph
@@ -123,4 +123,7 @@ def answer(user_message):
     print(results)
     print(tag)
     message = random.choice(responses)
+
+    if (results[0][result_index] < 0.5):
+        message = "Das habe ich leider nicht so ganz verstanden. :("
     return message

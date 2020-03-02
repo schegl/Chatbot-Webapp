@@ -1,12 +1,22 @@
 {"qa": [
         {"tag": "begrüßung",
-         "questions": ["Hallo", "Ist jemand da?", "Hi", "Guten Tag"],
+         "questions": ["Hallo", "Ist jemand da?", "Hi", "Guten Tag", "Hey", "Moin", "Servus"],
          "answers": ["Hey, wie kann ich dir weiterhelfen?"],
          "context_set": ""
         },
         {"tag": "wiegehts",
          "questions": ["Wie gehts?", "Was geht?"],
          "answers": ["Mir geht es super und dir?"],
+         "context_set": ""
+        },
+        {"tag": "gut",
+         "questions": ["Mir geht es auch gut.", "Mir geht es super", "Es geht mir gut", "gut", "super"],
+         "answers": ["Das freut mich zuhören :)"],
+         "context_set": ""
+        },
+        {"tag": "schlecht",
+         "questions": ["Ganz ok", "Nicht so gut", "Es geht mir schlecht", "schlecht"],
+         "answers": ["Kopf Hoch, es wird wieder :)"],
          "context_set": ""
         },
         {"tag": "wieoftsport",
@@ -25,7 +35,7 @@
          "context_set": ""
         },
         {"tag": "gesundeernaehrung",
-         "questions": ["Was ist unter gesunder Ernährung zu verstehen?", "Wie muss ich mich ernähren, um gesund zu bleiben?", "Gesunde Nahrung?"],
+         "questions": ["Was ist unter gesunder Ernährung zu verstehen?", "Wie muss ich mich ernähren, um gesund zu bleiben?", "Gesunde Nahrung?", "Wie ernähre ich mich gesund?"],
          "answers": ["Du solltest vorallem viel Obst und Gemüse essen."],
          "context_set": ""
         },
@@ -40,13 +50,23 @@
          "context_set": ""
         },
         {"tag": "abnehmen",
-         "questions": ["Was kann ich tun, um abzunehmen?", "Wie kann ich Gewicht verlieren?", "Wie werde ich schlank?"],
+         "questions": ["Was kann ich tun, um abzunehmen?", "Wie kann ich Gewicht verlieren?", "Wie werde ich schlank?", "Wie nehme ich ab?"],
          "answers": ["Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden."],
          "context_set": ""
         },
         {"tag": "zunehmen",
-         "questions": ["Wie baue ich Muskeln auf?"],
-         "answers": ["Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen."],
+         "questions": ["Wie baue ich Muskeln auf?", "Wie nehme ich zu?", "Wie kann ich Gewicht zunehmen?", "Was kann ich tun, um zuzunehmen?"],
+         "answers": ["Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor."],
+         "context_set": ""
+        },
+        {"tag": "danke",
+         "questions": ["Danke", "Vielen Dank", "Ich bedanke mich."],
+         "answers": ["Gerne doch :)"],
+         "context_set": ""
+        },
+        {"tag": "bye",
+         "questions": ["tschüß", "tschüss", "bye", "caio", "auf wiedersehen", "Bis dann", "machs gut", "bb", "Bis später"],
+         "answers": ["Machs gut. Du kannst mich jederzeit wieder etwas fragen."],
          "context_set": ""
         }
         
