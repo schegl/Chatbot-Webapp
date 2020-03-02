@@ -5,7 +5,6 @@
 ## Beispielfragen
 
 Beispielfragen sind in `qa.json` zu finden.
-Im besten Fall erkennt der Chatbot in änlich gestellten Fragen Muster und liefert die entsprechende Antwort.
 
 ## Anleitung zum Starten
 
