@@ -14,3 +14,57 @@
 (2020-03-01 18:17:07.609061+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
 (2020-03-02 19:08:34.924457+00:00) Sie: Hi
 (2020-03-02 19:08:34.924457+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-03-02 19:34:07.918831+00:00) Sie: Hallo
+(2020-03-02 19:34:07.918831+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-03-02 19:34:17.640346+00:00) Sie: Wie gehts dir so?
+(2020-03-02 19:34:17.640346+00:00) Chatbot: Das habe ich leider nicht so ganz verstanden. :(
+(2020-03-02 19:34:29.079177+00:00) Sie: Ich würde gerne Muskeln aufbauen
+(2020-03-02 19:34:29.079177+00:00) Chatbot: Das habe ich leider nicht so ganz verstanden. :(
+(2020-03-02 19:34:37.862476+00:00) Sie: Wie kann ich Muskeln aufbauen?
+(2020-03-02 19:34:37.862476+00:00) Chatbot: Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor.
+(2020-03-02 19:35:27.829063+00:00) Sie: Ich würde gerne Muskeln aufbauen
+(2020-03-02 19:35:27.829063+00:00) Chatbot: Du solltest viel Ausdauersport machen und weniger Kalorien essen als zuvor. Versuche Junk-Food zu vermeiden.
+(2020-03-02 19:35:38.416577+00:00) Sie: Wie nehme ich zu?
+(2020-03-02 19:35:38.416577+00:00) Chatbot: Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor.
+(2020-03-02 19:35:51.111133+00:00) Sie: Wie kann ich zunehmen?
+(2020-03-02 19:35:51.111133+00:00) Chatbot: Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor.
+(2020-03-02 19:35:58.991780+00:00) Sie: Wie nehme ich an Muskelmasse zu?
+(2020-03-02 19:35:58.991780+00:00) Chatbot: Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor.
+(2020-03-02 19:36:18.568512+00:00) Sie: Hey, wie gehts?
+(2020-03-02 19:36:18.568512+00:00) Chatbot: Mir geht es super und dir?
+(2020-03-02 19:36:23.711641+00:00) Sie: auch
+(2020-03-02 19:36:23.711641+00:00) Chatbot: Das freut mich zuhören :)
+(2020-03-02 19:36:39.735249+00:00) Sie: auch danke
+(2020-03-02 19:36:39.735249+00:00) Chatbot: Gerne doch :)
+(2020-03-02 19:37:07.671267+00:00) Sie: Ich möchte gerne wissen wie man sich gesund ernährt
+(2020-03-02 19:37:07.671267+00:00) Chatbot: Du solltest vorallem viel Obst und Gemüse essen.
+(2020-03-02 19:37:20.495309+00:00) Sie: Und wie nehme ich an Muskelmasse zu?
+(2020-03-02 19:37:20.495309+00:00) Chatbot: Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor.
+(2020-03-02 19:37:46.711755+00:00) Sie: Danke, und worauf ist dabei zu achten wenn ich mit Fitness anfange?
+(2020-03-02 19:37:46.711755+00:00) Chatbot: Wenn du mit dem Fitnesstraining beginnen möchtest, ist es sehr wichtig, dass du auf eine saubere Ausführung der Übungen achtest, um Verletzungen vorzubeugen. Einen für dich passenden Trainingsplan findest du unter ...de
+(2020-03-02 19:38:00.606677+00:00) Sie: Super danke
+(2020-03-02 19:38:00.606677+00:00) Chatbot: Gerne doch :)
+(2020-03-02 19:39:24.529034+00:00) Sie: Hey
+(2020-03-02 19:39:24.529034+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-03-02 19:39:29.431348+00:00) Sie: Wie geht es dir so?
+(2020-03-02 19:39:29.431348+00:00) Chatbot: Kopf Hoch, es wird wieder :)
+(2020-03-02 19:39:53.904432+00:00) Sie: Wie geht es dir so?
+(2020-03-02 19:39:53.904432+00:00) Chatbot: Kopf Hoch, es wird wieder :)
+(2020-03-02 19:39:58.239266+00:00) Sie: wie gehts dir
+(2020-03-02 19:39:58.239266+00:00) Chatbot: Mir geht es super und dir?
+(2020-03-02 19:40:06.055612+00:00) Sie: Wie gehts dir so?
+(2020-03-02 19:40:06.055612+00:00) Chatbot: Mir geht es super und dir?
+(2020-03-02 19:40:17.025991+00:00) Sie: Hey
+(2020-03-02 19:40:17.025991+00:00) Chatbot: Hey, wie kann ich dir weiterhelfen?
+(2020-03-02 19:40:23.134327+00:00) Sie: Wie gehts dir so?
+(2020-03-02 19:40:23.134327+00:00) Chatbot: Mir geht es super und dir?
+(2020-03-02 19:40:26.704960+00:00) Sie: auch :)
+(2020-03-02 19:40:26.704960+00:00) Chatbot: Das freut mich zuhören :)
+(2020-03-02 19:40:38.399214+00:00) Sie: Ich möchte gerne wissen wie man sich gesund ernährt
+(2020-03-02 19:40:38.399214+00:00) Chatbot: Du solltest vorallem viel Obst und Gemüse essen.
+(2020-03-02 19:40:49.987376+00:00) Sie: und wie nehme ich an Muskelmasse zu?
+(2020-03-02 19:40:49.987376+00:00) Chatbot: Du solltest dich im Fitnessstudio anmelden und die Übungen im niederigen Wiederholungsbereich (8-12x) ausführen. Zudem solltest du mehr Kalorien essen als zuvor.
+(2020-03-02 19:41:09.599377+00:00) Sie: Danke, und worauf ist dabei zu achten wenn ich mit Fitness anfange?
+(2020-03-02 19:41:09.599377+00:00) Chatbot: Wenn du mit dem Fitnesstraining beginnen möchtest, ist es sehr wichtig, dass du auf eine saubere Ausführung der Übungen achtest, um Verletzungen vorzubeugen. Einen für dich passenden Trainingsplan findest du unter ...de
+(2020-03-02 19:41:14.702858+00:00) Sie: Super danke
+(2020-03-02 19:41:14.702858+00:00) Chatbot: Gerne doch :)

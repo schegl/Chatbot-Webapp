@@ -124,6 +124,6 @@ def answer(user_message):
     print(tag)
     message = random.choice(responses)
 
-    if (results[0][result_index] < 0.5):
-        message = "Das habe ich leider nicht so ganz verstanden. :("
+    #if (results[0][result_index] < 0.5):
+    #    message = "Das habe ich leider nicht so ganz verstanden. :("
     return message

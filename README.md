@@ -1,13 +1,18 @@
-# Deep Learning Chatbot
+# Question-Answering Chatbot Webanwendung
 
+![](chat.gif)
 
 ## Anleitung zum Starten
 
+```bash
 python manage.py runserver
+```
 
 ## Requirements
 
-see requirements.py
+```bash
+pip install requirements.py
+```
 
 ## References
 
