@@ -1,6 +1,10 @@
-# Question-Answering Chatbot Webanwendung
+# Question-Answering Fitness Chatbot mit graphischem Webinterface
 
 ![](chat.gif)
+
+## Beispielfragen
+
+Beispielfragen sind in `qa.json` zu finden.
 
 ## Anleitung zum Starten
 
