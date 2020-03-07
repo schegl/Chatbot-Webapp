@@ -11,7 +11,7 @@
         },
         {"tag": "gut",
          "questions": ["Mir geht es auch gut.", "Mir geht es super", "Es geht mir gut", "gut", "super"],
-         "answers": ["Das freut mich zuhören :)"],
+         "answers": ["Das freut mich zu hören :)"],
          "context_set": ""
         },
         {"tag": "schlecht",
